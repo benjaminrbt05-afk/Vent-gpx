@@ -1,0 +1,12 @@
+Vent GPX - application web installable (PWA)
+
+MISE EN LIGNE (gratuit, ~5 min), au choix :
+A) Netlify Drop : va sur app.netlify.com/drop, glisse le dossier décompressé "vent-gpx". Tu obtiens une adresse https.
+B) GitHub Pages : crée un dépôt, envoie tous les fichiers à la racine, puis Settings > Pages > Deploy from a branch (main, /root).
+
+INSTALLATION SUR iPHONE :
+1. Ouvre l'adresse https dans Safari.
+2. Bouton Partager > "Sur l'écran d'accueil".
+3. Lance l'app depuis son icône.
+
+Ne pas ouvrir index.html directement depuis Fichiers : la météo et la carte ont besoin d'une vraie adresse https.

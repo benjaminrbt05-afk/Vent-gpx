@@ -1,0 +1,16 @@
+{
+  "name": "Vent GPX",
+  "short_name": "Vent GPX",
+  "description": "Vent de face, de dos ou de côté sur une trace GPX",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14191b",
+  "theme_color": "#14191b",
+  "lang": "fr",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
